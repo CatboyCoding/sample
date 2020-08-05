@@ -1,0 +1,7 @@
+{
+    "name": "! Sample Plugin",
+    "version": "0.0.1",
+    "description": "Sample tutorial plugin",
+    "author": "Lil Sizzurp",
+    "license": "MIT"
+}
